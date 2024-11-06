@@ -5,7 +5,7 @@ const loginBtn = document.getElementById('login');
 registerBtn.addEventListener('click', () => {
     container.classList.add("active");
 });
-
+// code by ali
 loginBtn.addEventListener('click', () => {
     container.classList.remove("active");
 });
